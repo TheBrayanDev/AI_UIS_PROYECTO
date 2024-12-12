@@ -1,6 +1,7 @@
 # Modelos de ML (regresión lineal) para predecir la popularidad de una canción.
-*  Objetivo: Predecir la popularidad de una canción utilizando atributos musicales.
+![Banner](./Banner.png)
 *  Autores: Julio César Gutiérrez Rengifo - 2220089, Brayan Julián Barrera Hernández - 2220097, Camilo Andrés Campos Gamboa - 2220099
+*  Objetivo: Predecir la popularidad de una canción utilizando atributos musicales.
 *  Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 *  Modelos:
 	- Random Forest

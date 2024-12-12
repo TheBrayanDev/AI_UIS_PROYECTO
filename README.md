@@ -2,7 +2,7 @@
 ![Banner](./Banner.png)
 *  Autores: Julio César Gutiérrez Rengifo - 2220089, Brayan Julián Barrera Hernández - 2220097, Camilo Andrés Campos Gamboa - 2220099
 *  Objetivo: Predecir la popularidad de una canción utilizando atributos musicales.
-*  Dataset: Conjunto de datos que recopila información sobre distintos atributos musicales de una muestra original de más de 100 mil canciones https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+*  [Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset): Conjunto de datos que recopila información sobre distintos atributos musicales de una muestra original de más de 100 mil canciones 
 *  Modelos:
 	- Random Forest
 	- Decision Tree

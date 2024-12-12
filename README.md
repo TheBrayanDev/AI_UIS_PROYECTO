@@ -12,4 +12,4 @@
 * Enlaces:
 	- [Repositorio](https://github.com/TheBrayanDev/AI_UIS_PROYECTO)
 	- [Colab](https://colab.research.google.com/drive/1Zc7WpuTEvgO2dHTOixyfj5StCYOy-d-v?usp=sharing)
-	- [Vídeo]()
+	- [Vídeo](https://youtu.be/7G3pZeraR1Y)

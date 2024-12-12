@@ -1,5 +1,4 @@
-# (UIS) AI PROYECTO Grupo E2
-Modelos de ML (regresión lineal) para predecir la popularidad de una canción.
+# Modelos de ML (regresión lineal) para predecir la popularidad de una canción.
 *  Objetivo: Predecir la popularidad de una canción utilizando atributos musicales.
 *  Autores: Julio César Gutiérrez Rengifo - 2220089, Brayan Julián Barrera Hernández - 2220097, Camilo Andrés Campos Gamboa - 2220099
 *  Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
